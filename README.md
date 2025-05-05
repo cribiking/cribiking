@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arnau.cribillers@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/cribiking/ArnauCribillers_Resume](https://github.com/cribiking/ArnauCribillers_Resume)
+- 📄 Know about my experiences [Watch My Resumé](https://github.com/cribiking/ArnauCribillers_Resume)
   
 <p align="left">
 </p>

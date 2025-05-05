@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Degree in Computer Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cribiking/cribiking](https://github.com/cribiking/cribiking)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/cribiking)
 
 - 📫 How to reach me **arnau.cribillers@gmail.com**
 

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnau</h1>
-<h3 align="center">Welcome to my profile! I began this journey in 2023, and since then, I’ve been fascinated by the world of programming. I'm excited to keep growing and continuously improving my skills.</h3>
+<h3 align="center">Welcome to my profile!
+  I began this journey in 2023, and since then, I’ve been fascinated by the world of programming. I'm excited to keep growing and continuously improving my skills.</h3>
 
 - 🌱 I’m currently learning **Degree in Computer Engineering**
 

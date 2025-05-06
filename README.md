@@ -2,12 +2,9 @@
 <h3 align="center">I began this journey in 2023, and since then, I’ve been fascinated by the world of programming. I'm excited to keep growing and continuously improving my skills.</h3>
 
 - 🌱 I’m currently learning **Degree in Computer Engineering**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/cribiking)
-
-- 📫 How to reach me **arnau.cribillers@gmail.com**
-
+- 👯 I’m looking to collaborate on **Open source Projects**
 - 📄 Know about my experiences [Watch My Resumé](https://github.com/cribiking/ArnauCribillers_Resume)
+- 📫 You can contact my trought [here](arnau.cribillers@gmail.com)
   
 <p align="left">
 </p>

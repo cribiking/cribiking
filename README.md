@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning **Degree in Computer Engineering**
 - 👯 I’m looking to collaborate on **Open source Projects**
 - 📄 Know about my experiences [Watch My Resumé](https://github.com/cribiking/ArnauCribillers_Resume)
-- 📫 You can contact my trought [here](mailto:arnau.cribillers@gmail.com)
+- 📫 You can contact me [here](mailto:arnau.cribillers@gmail.com?subject=Hello%20Arnau&body=I%20wanted%20to%20reach%20out%20to%20you%20about...)
+
   
 <p align="left">
 </p>
